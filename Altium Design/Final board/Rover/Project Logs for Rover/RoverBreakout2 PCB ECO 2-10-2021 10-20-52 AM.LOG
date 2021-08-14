@@ -1,0 +1,122 @@
+Added Component: Designator=C1(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "1F"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor-Generic)
+Added Component: Designator=C3(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Capacitor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Capacitor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Capacitor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=HP1(Header_Pin)
+Added Component: Designator=HP2(Header_Pin)
+Added Component: Designator=HP3(Header_Pin)
+Added Component: Designator=M1(Motor)
+Added Component: Designator=PC1(PSoC-63 BLE)
+Added Component: Designator=PS(3-Way Switch)
+Add component (AddParameter): Name = "Category"; Value = "Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/445/452403012014-910324.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "452403012014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-452403012014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "732-10145-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Through Hole (y/n)"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "2.5"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "470k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor-Generic)
+Add component (AddParameter): Name = "Value"; Value = "150k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBat Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBat Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VBat Pin=C5-2
+Added Pin To Net: NetName=VBat Pin=HP1-1
+Added Pin To Net: NetName=Vbackup Pin=HP1-2
+Added Pin To Net: NetName=INT1 Pin=HP1-3
+Added Pin To Net: NetName=SCL Pin=HP1-4
+Added Pin To Net: NetName=SDA Pin=HP1-5
+Added Pin To Net: NetName=GND Pin=HP2-1
+Added Pin To Net: NetName=VSolar Pin=HP2-2
+Added Pin To Net: NetName=Vout1 Pin=HP2-3
+Added Pin To Net: NetName=FB Pin=HP2-4
+Added Pin To Net: NetName=PG Pin=HP2-5
+Added Pin To Net: NetName=EN Pin=HP3-1
+Added Pin To Net: NetName=EN Pin=HP3-2
+Added Pin To Net: NetName=GND Pin=PC1-1
+Added Pin To Net: NetName=Vbackup Pin=PC1-3
+Added Pin To Net: NetName=Vout1 Pin=PC1-4
+Added Pin To Net: NetName=Vbase2 Pin=PC1-9
+Added Pin To Net: NetName=Vbase1 Pin=PC1-14
+Added Pin To Net: NetName=SCL Pin=PC1-24
+Added Pin To Net: NetName=SDA Pin=PC1-29
+Added Pin To Net: NetName=NetPS_1 Pin=PS-1
+Added Pin To Net: NetName=NetPS_1 Pin=PS-1
+Added Pin To Net: NetName=NetPS_3 Pin=PS-3
+Added Pin To Net: NetName=NetPS_3 Pin=PS-3
+Added Pin To Net: NetName=VSolar Pin=R1-1
+Added Pin To Net: NetName=NetPS_1 Pin=R1-2
+Added Pin To Net: NetName=EN Pin=R2-1
+Added Pin To Net: NetName=VBat Pin=R2-2
+Added Pin To Net: NetName=FB Pin=R3-1
+Added Pin To Net: NetName=Vout1 Pin=R3-2
+Added Pin To Net: NetName=PG Pin=R4-1
+Added Pin To Net: NetName=Vout1 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=FB Pin=R5-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=PS-2
+Added Pin To Net: NetName=NetC1_2 Pin=PS-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetM1_1 Pin=Q3-1
+Added Net: Name=NetM1_1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=NetM1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetM1_2 Pin=Q4-1
+Added Net: Name=NetM1_2
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C1 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C2 Passive-Capacitor-0603
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C3 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C4 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C5 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C6 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C7 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C8 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C9 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP1 Header-Pin
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP2 Header-Pin
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP3 Header-Pin
+Added Member To Class: ClassName=RoverBreakout2 Member=Component L2 LGA-13
+Added Member To Class: ClassName=RoverBreakout2 Member=Component M1 Motor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component PC1 PSoC 63 BLE
+Added Member To Class: ClassName=RoverBreakout2 Member=Component PS Power-Slide-Switch
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q1 PNP
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q2 PNP
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q3 NPN
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q4 NPN
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R1 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R2 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R3 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R4 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R5 Resistor

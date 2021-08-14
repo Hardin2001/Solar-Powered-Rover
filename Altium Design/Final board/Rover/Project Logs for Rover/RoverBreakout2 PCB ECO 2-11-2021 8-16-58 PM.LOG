@@ -1,0 +1,7 @@
+Added Component: Designator=Dis1(Display)
+Added Pin To Net: NetName=VBat Pin=Dis1-5
+Added Pin To Net: NetName=SCL Pin=Dis1-10
+Added Pin To Net: NetName=SDA Pin=Dis1-11
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Dis1 Display
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP3 Header-Pin
+Added Room: Name=RoverBreakout2

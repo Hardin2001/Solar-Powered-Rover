@@ -1,0 +1,198 @@
+Added Component: Designator=Acc1(LIS3DH)
+Added Component: Designator=BC1(BatteryConnector)
+Added Component: Designator=Bu1(Buck_Boost_Converter)
+Added Component: Designator=C1(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "1F"; VariantName = "[No Variations]"
+Added Component: Designator=C2(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=C3(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(PASSIVE-CAPACITOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=HP1(Header_Pin)
+Added Component: Designator=HP2(Header_Pin)
+Added Component: Designator=HP3(Header_Pin)
+Added Component: Designator=L1(PASSIVE-INDUCTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "1.5uH"; VariantName = "[No Variations]"
+Added Component: Designator=M1(Motor)
+Added Component: Designator=PC1(PSoC-63 BLE)
+Added Component: Designator=PS1(3-Way Switch)
+Added Component: Designator=Q1(SOT-23B_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23B_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO-226-AA)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.8mm; Leads 0.55 x 0.51 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO-226-AA)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.8mm; Leads 0.55 x 0.51 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(PASSIVE-RESISTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "2.5"; VariantName = "[No Variations]"
+Added Component: Designator=R2(PASSIVE-RESISTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(PASSIVE-RESISTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "470K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(PASSIVE-RESISTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(PASSIVE-RESISTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "150K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Acc1-GND
+Added Pin To Net: NetName=GND Pin=Acc1-GND
+Added Pin To Net: NetName=INT1 Pin=Acc1-INT1
+Added Pin To Net: NetName=SCL Pin=Acc1-SCL / SPC
+Added Pin To Net: NetName=SDA Pin=Acc1-SDA/SDI/SDO
+Added Pin To Net: NetName=Vout1 Pin=Acc1-VDDIO
+Added Pin To Net: NetName=Vout1 Pin=Acc1-VDD
+Added Pin To Net: NetName=GND Pin=BC1-GND
+Added Pin To Net: NetName=VBat Pin=BC1-VBAT
+Added Pin To Net: NetName=EN Pin=Bu1-EN
+Added Pin To Net: NetName=GND Pin=Bu1-FB2
+Added Pin To Net: NetName=FB Pin=Bu1-FB
+Added Pin To Net: NetName=GND Pin=Bu1-GND
+Added Pin To Net: NetName=NetBu1_L1 Pin=Bu1-L1
+Added Pin To Net: NetName=NetBu1_L2 Pin=Bu1-L2
+Added Pin To Net: NetName=GND Pin=Bu1-PGND
+Added Pin To Net: NetName=PG Pin=Bu1-PG
+Added Pin To Net: NetName=NetBu1_VAUX Pin=Bu1-VAUX
+Added Pin To Net: NetName=VBat Pin=Bu1-VIN
+Added Pin To Net: NetName=VBat Pin=Bu1-VIN
+Added Pin To Net: NetName=VBat Pin=Bu1-VIN
+Added Pin To Net: NetName=Vout1 Pin=Bu1-VOUT
+Added Pin To Net: NetName=Vout1 Pin=Bu1-VOUT
+Added Pin To Net: NetName=Vout1 Pin=Bu1-VOUT
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetBu1_VAUX Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBat Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBat Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VBat Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Vout1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Vout1 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=Vout1 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=Vout1 Pin=C9-2
+Added Pin To Net: NetName=VBat Pin=HP1-1
+Added Pin To Net: NetName=Vbackup Pin=HP1-2
+Added Pin To Net: NetName=INT1 Pin=HP1-3
+Added Pin To Net: NetName=SDA Pin=HP1-4
+Added Pin To Net: NetName=SCL Pin=HP1-5
+Added Pin To Net: NetName=GND Pin=HP2-1
+Added Pin To Net: NetName=VSolar Pin=HP2-2
+Added Pin To Net: NetName=Vout1 Pin=HP2-3
+Added Pin To Net: NetName=FB Pin=HP2-4
+Added Pin To Net: NetName=PG Pin=HP2-5
+Added Pin To Net: NetName=EN Pin=HP3-1
+Added Pin To Net: NetName=NetBu1_L1 Pin=L1-1
+Added Pin To Net: NetName=NetBu1_L2 Pin=L1-2
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=Vbackup Pin=PC1-3
+Added Pin To Net: NetName=Vout1 Pin=PC1-4
+Added Pin To Net: NetName=Vbase2 Pin=PC1-9
+Added Pin To Net: NetName=Vbase1 Pin=PC1-14
+Added Pin To Net: NetName=SCL Pin=PC1-25
+Added Pin To Net: NetName=SDA Pin=PC1-29
+Added Pin To Net: NetName=NetC1_2 Pin=PS1-2
+Added Pin To Net: NetName=NetC1_2 Pin=PS1-2
+Added Pin To Net: NetName=NetM1_2 Pin=Q1-1
+Added Pin To Net: NetName=Vbase2 Pin=Q1-2
+Added Pin To Net: NetName=NetM1_1 Pin=Q2-1
+Added Pin To Net: NetName=Vbase1 Pin=Q2-2
+Added Pin To Net: NetName=NetM1_2 Pin=Q3-1
+Added Pin To Net: NetName=Vbase2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetM1_1 Pin=Q4-1
+Added Pin To Net: NetName=Vbase1 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=VSolar Pin=R1-1
+Added Pin To Net: NetName=VBat Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=Vout1 Pin=R3-1
+Added Pin To Net: NetName=FB Pin=R3-2
+Added Pin To Net: NetName=Vout1 Pin=R4-1
+Added Pin To Net: NetName=PG Pin=R4-2
+Added Pin To Net: NetName=FB Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Change Net Name : Old Net Name=Vbase1 New Net Name=Vb1
+Change Net Name : Old Net Name=Vbase2 New Net Name=Vb2
+Added Pin To Net: NetName=NetPS1_1 Pin=PS1-1
+Added Pin To Net: NetName=NetPS1_1 Pin=PS1-1
+Added Pin To Net: NetName=NetPS1_1 Pin=R1-2
+Added Net: Name=NetPS1_1
+Added Pin To Net: NetName=NetPS1_3 Pin=PS1-3
+Added Pin To Net: NetName=NetPS1_3 Pin=PS1-3
+Added Pin To Net: NetName=NetPS1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetPS1_3 Pin=Q2-3
+Added Net: Name=NetPS1_3
+Added Pin To Net: NetName=PS/S Pin=Bu1-PS/S
+Added Pin To Net: NetName=PS/S Pin=HP3-2
+Added Net: Name=PS/S
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Acc1 LIS3DH
+Added Member To Class: ClassName=RoverBreakout2 Member=Component BC1 BatteryConnector
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Bu1 Buck_Boost_Converter
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C1 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C2 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C3 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C4 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C5 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C6 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C7 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C8 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component C9 Capacitor1
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP1 Header-Pin
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP2 Header-Pin
+Added Member To Class: ClassName=RoverBreakout2 Member=Component HP3 Header-Pin
+Added Member To Class: ClassName=RoverBreakout2 Member=Component L1 Inductor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component M1 Motor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component PC1 PSoC 63 BLE
+Added Member To Class: ClassName=RoverBreakout2 Member=Component PS1 Switch
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q1 PNP
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q2 PNP
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q3 NPN
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Q4 NPN
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R1 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R2 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R3 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R4 Resistor
+Added Member To Class: ClassName=RoverBreakout2 Member=Component R5 Resistor
+Added Room: Name=RoverBreakout2

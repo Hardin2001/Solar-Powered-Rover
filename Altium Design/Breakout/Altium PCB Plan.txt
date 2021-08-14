@@ -1,0 +1,9 @@
+1.) Build Schematic 
+	a) Used components from previous labs or use master libray assuming we get it?
+	b) Get Feedback from team for connections
+	
+2.) Route PCB Breakout Board:
+	a.) Drc
+
+** Might need to modify if we decide to add more features**
+ To discuss in MileStones

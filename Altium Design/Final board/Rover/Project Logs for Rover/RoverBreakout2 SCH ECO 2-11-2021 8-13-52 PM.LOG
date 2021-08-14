@@ -1,0 +1,3 @@
+Remove Pin=Dis1-5 From Net=Vbat
+Remove Pin=Dis1-10 From Net=SCL
+Remove Pin=Dis1-11 From Net=SDA

@@ -1,0 +1,5 @@
+Added Component: Designator=L1(PASSIVE-INDUCTOR-0603)
+Add component (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBu1_L1 Pin=L1-1
+Added Pin To Net: NetName=NetBu1_L2 Pin=L1-2
+Added Member To Class: ClassName=RoverBreakout2 Member=Component L1 Inductor

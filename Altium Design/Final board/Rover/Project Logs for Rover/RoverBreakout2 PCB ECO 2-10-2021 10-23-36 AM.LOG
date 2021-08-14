@@ -1,0 +1,19 @@
+Added Component: Designator=Bu1(Buck_Boost_Converter)
+Added Pin To Net: NetName=EN Pin=Bu1-EN
+Added Pin To Net: NetName=GND Pin=Bu1-FB2
+Added Pin To Net: NetName=FB Pin=Bu1-FB
+Added Pin To Net: NetName=GND Pin=Bu1-GND
+Added Pin To Net: NetName=NetBu1_L1 Pin=Bu1-L1
+Added Pin To Net: NetName=NetBu1_L2 Pin=Bu1-L2
+Added Pin To Net: NetName=GND Pin=Bu1-PGND
+Added Pin To Net: NetName=PG Pin=Bu1-PG
+Added Pin To Net: NetName=EN Pin=Bu1-PS/S
+Added Pin To Net: NetName=NetBu1_VAUX Pin=Bu1-VAUX
+Added Pin To Net: NetName=VBat Pin=Bu1-VIN
+Added Pin To Net: NetName=VBat Pin=Bu1-VIN
+Added Pin To Net: NetName=VBat Pin=Bu1-VIN
+Added Pin To Net: NetName=Vout1 Pin=Bu1-VOUT
+Added Pin To Net: NetName=Vout1 Pin=Bu1-VOUT
+Added Pin To Net: NetName=Vout1 Pin=Bu1-VOUT
+Added Pin To Net: NetName=GND Pin=Bu1-VSEL
+Added Member To Class: ClassName=RoverBreakout2 Member=Component Bu1 Buck_Boost_Converter
